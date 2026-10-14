@@ -1,0 +1,4615 @@
+fileFormatVersion: 2
+guid: bf7c50df23a4b884eada3c62dde949af
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4736102380689455565
+    second: marioWorldSheet_0
+  - first:
+      213: -6598437330299988929
+    second: marioWorldSheet_1
+  - first:
+      213: 5978316442183319925
+    second: marioWorldSheet_2
+  - first:
+      213: -7249445267916601622
+    second: marioWorldSheet_3
+  - first:
+      213: 2236573339340578797
+    second: marioWorldSheet_4
+  - first:
+      213: -2062090418738265664
+    second: marioWorldSheet_5
+  - first:
+      213: -1952120661884304070
+    second: marioWorldSheet_6
+  - first:
+      213: -4508882108526202516
+    second: marioWorldSheet_7
+  - first:
+      213: -3890897374961572297
+    second: marioWorldSheet_8
+  - first:
+      213: -6425395044210708546
+    second: marioWorldSheet_9
+  - first:
+      213: -2233784891873938897
+    second: marioWorldSheet_10
+  - first:
+      213: -2752691086963350164
+    second: marioWorldSheet_11
+  - first:
+      213: -7608618694842110550
+    second: marioWorldSheet_12
+  - first:
+      213: 6476631518180497563
+    second: marioWorldSheet_13
+  - first:
+      213: -8516573679333348686
+    second: marioWorldSheet_14
+  - first:
+      213: -921294865299584409
+    second: marioWorldSheet_15
+  - first:
+      213: -3943863246238207295
+    second: marioWorldSheet_16
+  - first:
+      213: 2405678789805211527
+    second: marioWorldSheet_17
+  - first:
+      213: 7213068515547142992
+    second: marioWorldSheet_18
+  - first:
+      213: -4366925596643130811
+    second: marioWorldSheet_19
+  - first:
+      213: -1128771648276558213
+    second: marioWorldSheet_20
+  - first:
+      213: 8420907882749016570
+    second: marioWorldSheet_21
+  - first:
+      213: 3925246052637753109
+    second: marioWorldSheet_22
+  - first:
+      213: -2367873348926757029
+    second: marioWorldSheet_23
+  - first:
+      213: 197570327948576690
+    second: marioWorldSheet_24
+  - first:
+      213: 1356790583697924928
+    second: marioWorldSheet_25
+  - first:
+      213: 6061912927473709859
+    second: marioWorldSheet_26
+  - first:
+      213: -158252106266342854
+    second: marioWorldSheet_27
+  - first:
+      213: 3660988350190056237
+    second: marioWorldSheet_28
+  - first:
+      213: -8248308846421974049
+    second: marioWorldSheet_29
+  - first:
+      213: 7162835862053927465
+    second: marioWorldSheet_30
+  - first:
+      213: 2113229774253600356
+    second: marioWorldSheet_31
+  - first:
+      213: -4639470340088998704
+    second: marioWorldSheet_32
+  - first:
+      213: -1436106472708758944
+    second: marioWorldSheet_33
+  - first:
+      213: 5865912989240010100
+    second: marioWorldSheet_34
+  - first:
+      213: 2836671293026814110
+    second: marioWorldSheet_35
+  - first:
+      213: 2456062654642042973
+    second: marioWorldSheet_36
+  - first:
+      213: -8876592066346462553
+    second: marioWorldSheet_37
+  - first:
+      213: -2239636850946398389
+    second: marioWorldSheet_38
+  - first:
+      213: -3110013595793411520
+    second: marioWorldSheet_39
+  - first:
+      213: -728107236551398484
+    second: marioWorldSheet_40
+  - first:
+      213: 9179276687141474804
+    second: marioWorldSheet_41
+  - first:
+      213: 8027567887651061093
+    second: marioWorldSheet_42
+  - first:
+      213: 1501803270854245112
+    second: marioWorldSheet_43
+  - first:
+      213: 2481487640051589807
+    second: marioWorldSheet_44
+  - first:
+      213: 6330613064794338625
+    second: marioWorldSheet_45
+  - first:
+      213: -3576792494205408307
+    second: marioWorldSheet_46
+  - first:
+      213: 2722444728386366406
+    second: marioWorldSheet_47
+  - first:
+      213: -1483911669245802704
+    second: marioWorldSheet_48
+  - first:
+      213: 620276540385834732
+    second: marioWorldSheet_49
+  - first:
+      213: -585561170690119262
+    second: marioWorldSheet_50
+  - first:
+      213: 893925859629870169
+    second: marioWorldSheet_51
+  - first:
+      213: -2958141296680694813
+    second: marioWorldSheet_52
+  - first:
+      213: 8681946960064797768
+    second: marioWorldSheet_53
+  - first:
+      213: -8889637976144512609
+    second: marioWorldSheet_54
+  - first:
+      213: -75267190607678879
+    second: marioWorldSheet_55
+  - first:
+      213: -6318080798708686095
+    second: marioWorldSheet_56
+  - first:
+      213: 4832372971884758719
+    second: marioWorldSheet_57
+  - first:
+      213: 251111694593629449
+    second: marioWorldSheet_58
+  - first:
+      213: -4345297156518772471
+    second: marioWorldSheet_59
+  - first:
+      213: -380534740077847541
+    second: marioWorldSheet_60
+  - first:
+      213: 1845585366669744042
+    second: marioWorldSheet_61
+  - first:
+      213: -6825923645265917252
+    second: marioWorldSheet_62
+  - first:
+      213: -720457273809406477
+    second: marioWorldSheet_63
+  - first:
+      213: 4705812416934307689
+    second: marioWorldSheet_64
+  - first:
+      213: 3415661414418448122
+    second: marioWorldSheet_65
+  - first:
+      213: -4364664476352391119
+    second: marioWorldSheet_66
+  - first:
+      213: 796696157900372753
+    second: marioWorldSheet_67
+  - first:
+      213: -8664311601757563410
+    second: marioWorldSheet_68
+  - first:
+      213: 4804002638378087081
+    second: marioWorldSheet_69
+  - first:
+      213: 4326876988482534458
+    second: marioWorldSheet_70
+  - first:
+      213: 5440189398353462878
+    second: marioWorldSheet_71
+  - first:
+      213: 270823615002252574
+    second: marioWorldSheet_72
+  - first:
+      213: 1888681811122394819
+    second: marioWorldSheet_73
+  - first:
+      213: -5901119806386066399
+    second: marioWorldSheet_74
+  - first:
+      213: 4479716985093291571
+    second: marioWorldSheet_75
+  - first:
+      213: -7206435024401435662
+    second: marioWorldSheet_76
+  - first:
+      213: -143256793956273708
+    second: marioWorldSheet_77
+  - first:
+      213: -1021274039750834256
+    second: marioWorldSheet_78
+  - first:
+      213: 4838511272082816714
+    second: marioWorldSheet_79
+  - first:
+      213: 1032093392292521929
+    second: marioWorldSheet_80
+  - first:
+      213: 2992977889830504477
+    second: marioWorldSheet_81
+  - first:
+      213: -301853911502622557
+    second: marioWorldSheet_82
+  - first:
+      213: -2665114128590009583
+    second: marioWorldSheet_83
+  - first:
+      213: -344052009884502237
+    second: marioWorldSheet_84
+  - first:
+      213: 5805869826341546907
+    second: marioWorldSheet_85
+  - first:
+      213: -7939340509475011968
+    second: marioWorldSheet_86
+  - first:
+      213: -5358059437190014784
+    second: marioWorldSheet_87
+  - first:
+      213: 4871708969932261157
+    second: marioWorldSheet_88
+  - first:
+      213: 4364800241933437524
+    second: marioWorldSheet_89
+  - first:
+      213: 4800131373119498991
+    second: marioWorldSheet_90
+  - first:
+      213: 2254306035472479605
+    second: marioWorldSheet_91
+  - first:
+      213: -8154837023458523021
+    second: marioWorldSheet_92
+  - first:
+      213: 8536200043303248229
+    second: marioWorldSheet_93
+  - first:
+      213: -4891201566030674573
+    second: marioWorldSheet_94
+  - first:
+      213: 7505674461774347377
+    second: marioWorldSheet_95
+  - first:
+      213: 9037441970491580852
+    second: marioWorldSheet_96
+  - first:
+      213: -8556267789880585199
+    second: marioWorldSheet_97
+  - first:
+      213: -8363249892630197501
+    second: marioWorldSheet_98
+  - first:
+      213: -5953616664447096453
+    second: marioWorldSheet_99
+  - first:
+      213: -3155695108835344645
+    second: marioWorldSheet_100
+  - first:
+      213: 7800621972502268461
+    second: marioWorldSheet_101
+  - first:
+      213: 5711632788857921615
+    second: marioWorldSheet_102
+  - first:
+      213: -5353050949971225741
+    second: marioWorldSheet_103
+  - first:
+      213: -1864253678406008420
+    second: marioWorldSheet_104
+  - first:
+      213: -2923807403111979303
+    second: marioWorldSheet_105
+  - first:
+      213: -1660290155215654596
+    second: marioWorldSheet_106
+  - first:
+      213: 7942311221741860092
+    second: marioWorldSheet_107
+  - first:
+      213: -839461581409938275
+    second: marioWorldSheet_108
+  - first:
+      213: -1528935162029147347
+    second: marioWorldSheet_109
+  - first:
+      213: 4073154219137338398
+    second: marioWorldSheet_110
+  - first:
+      213: -5267810086032872425
+    second: marioWorldSheet_111
+  - first:
+      213: -3175118003082455584
+    second: marioWorldSheet_112
+  - first:
+      213: -8065357711452287074
+    second: marioWorldSheet_113
+  - first:
+      213: 7558981450672705941
+    second: marioWorldSheet_114
+  - first:
+      213: 1901770493638978898
+    second: marioWorldSheet_115
+  - first:
+      213: -508672251704231491
+    second: marioWorldSheet_116
+  - first:
+      213: 621104424032582750
+    second: marioWorldSheet_117
+  - first:
+      213: 3086794184694692164
+    second: marioWorldSheet_118
+  - first:
+      213: -4157320383803548537
+    second: marioWorldSheet_119
+  - first:
+      213: 8666681808995945164
+    second: marioWorldSheet_120
+  - first:
+      213: -6521107475497138591
+    second: marioWorldSheet_121
+  - first:
+      213: -4108382986869930088
+    second: marioWorldSheet_122
+  - first:
+      213: -1433762408417477764
+    second: marioWorldSheet_123
+  - first:
+      213: -4289279718209227219
+    second: marioWorldSheet_124
+  - first:
+      213: -1043322432508846703
+    second: marioWorldSheet_125
+  - first:
+      213: -521940125893224871
+    second: marioWorldSheet_126
+  - first:
+      213: 4340110613582871687
+    second: marioWorldSheet_127
+  - first:
+      213: 5172597974368607639
+    second: marioWorldSheet_128
+  - first:
+      213: -5850580944975277333
+    second: marioWorldSheet_129
+  - first:
+      213: -1662303405486899246
+    second: marioWorldSheet_130
+  - first:
+      213: 7096014352855237589
+    second: marioWorldSheet_131
+  - first:
+      213: 1679433263811576401
+    second: marioWorldSheet_132
+  - first:
+      213: 1757018518953087019
+    second: marioWorldSheet_133
+  - first:
+      213: 1763613842139097347
+    second: marioWorldSheet_134
+  - first:
+      213: 3880463269036097047
+    second: marioWorldSheet_135
+  - first:
+      213: -6544467406163915560
+    second: marioWorldSheet_136
+  - first:
+      213: 3458699288341214840
+    second: marioWorldSheet_137
+  - first:
+      213: 3574242187226496252
+    second: marioWorldSheet_138
+  - first:
+      213: 7434462660266620514
+    second: marioWorldSheet_139
+  - first:
+      213: -8305030963730845076
+    second: marioWorldSheet_140
+  - first:
+      213: 61864942904169079
+    second: marioWorldSheet_141
+  - first:
+      213: -7923274334439838481
+    second: marioWorldSheet_142
+  - first:
+      213: 773021810250261876
+    second: marioWorldSheet_143
+  - first:
+      213: 7613572491055189461
+    second: marioWorldSheet_144
+  - first:
+      213: -1675644893757119780
+    second: marioWorldSheet_145
+  - first:
+      213: 2091240155624178630
+    second: marioWorldSheet_146
+  - first:
+      213: 3799845579935101762
+    second: marioWorldSheet_147
+  - first:
+      213: -1905442434468621392
+    second: marioWorldSheet_148
+  - first:
+      213: -3599021830717128429
+    second: marioWorldSheet_149
+  - first:
+      213: 5459205495511907671
+    second: marioWorldSheet_150
+  - first:
+      213: 8251537951834757537
+    second: marioWorldSheet_151
+  - first:
+      213: 1456777006667902055
+    second: marioWorldSheet_152
+  - first:
+      213: -4099532608022927434
+    second: marioWorldSheet_153
+  - first:
+      213: 3706475600988281238
+    second: marioWorldSheet_154
+  - first:
+      213: 5813204323042376168
+    second: marioWorldSheet_155
+  - first:
+      213: -5348560018782968917
+    second: marioWorldSheet_156
+  - first:
+      213: 3737366858840926160
+    second: marioWorldSheet_157
+  - first:
+      213: -5481149508935302756
+    second: marioWorldSheet_158
+  - first:
+      213: -8982772481370341335
+    second: marioWorldSheet_159
+  - first:
+      213: -6783989357373215497
+    second: marioWorldSheet_160
+  - first:
+      213: -2035693279597949408
+    second: marioWorldSheet_161
+  - first:
+      213: -6227173358993239007
+    second: marioWorldSheet_162
+  - first:
+      213: 4007586284367161395
+    second: marioWorldSheet_163
+  - first:
+      213: 8436968545919513001
+    second: marioWorldSheet_164
+  - first:
+      213: 5207427120160016540
+    second: marioWorldSheet_165
+  - first:
+      213: -3886265310135969066
+    second: marioWorldSheet_166
+  - first:
+      213: 4325844142493586636
+    second: marioWorldSheet_167
+  - first:
+      213: -5157364230317370962
+    second: marioWorldSheet_168
+  - first:
+      213: 2841225600745589315
+    second: marioWorldSheet_169
+  - first:
+      213: 7296452537158318304
+    second: marioWorldSheet_170
+  - first:
+      213: 5776880963977726338
+    second: marioWorldSheet_171
+  - first:
+      213: -6522406876548167543
+    second: marioWorldSheet_172
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 10
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: marioWorldSheet_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 620
+        width: 75
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc970e4b5040ab140800000000000000
+      internalID: 4736102380689455565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_1
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 598
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f34dac64534ad64a0800000000000000
+      internalID: -6598437330299988929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_2
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 598
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 571c633312f37f250800000000000000
+      internalID: 5978316442183319925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_3
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 598
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae6c13320fbc46b90800000000000000
+      internalID: -7249445267916601622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_4
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 598
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: def118d2a97e90f10800000000000000
+      internalID: 2236573339340578797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_5
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 599
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c18e5880bbf163e0800000000000000
+      internalID: -2062090418738265664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_6
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 598
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a358fadc99ca8e4e0800000000000000
+      internalID: -1952120661884304070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_7
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 598
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c617e238c9b3d61c0800000000000000
+      internalID: -4508882108526202516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_8
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 599
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7366aebc371c00ac0800000000000000
+      internalID: -3890897374961572297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_9
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 598
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebfe340204964d6a0800000000000000
+      internalID: -6425395044210708546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_10
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 598
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f223837d9700001e0800000000000000
+      internalID: -2233784891873938897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_11
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 573
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c656a217a0a7cc9d0800000000000000
+      internalID: -2752691086963350164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_12
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 573
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aad2a86fb91c86690800000000000000
+      internalID: -7608618694842110550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_13
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 574
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b985f361d0e91e950800000000000000
+      internalID: 6476631518180497563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_14
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 573
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bae4e38c5d0fc980800000000000000
+      internalID: -8516573679333348686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_15
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 573
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76a4d648337e633f0800000000000000
+      internalID: -921294865299584409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_16
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 574
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c2b045e5459449c0800000000000000
+      internalID: -3943863246238207295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_17
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 573
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78ff70e0d10b26120800000000000000
+      internalID: 2405678789805211527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_18
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 573
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05bddb13997f91460800000000000000
+      internalID: 7213068515547142992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_19
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 573
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 542868b8e409563c0800000000000000
+      internalID: -4366925596643130811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_20
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 573
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7e81f79a2cc550f0800000000000000
+      internalID: -1128771648276558213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_21
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 532
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af9ba8d7a131dd470800000000000000
+      internalID: 8420907882749016570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_22
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 532
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51f3a7fec76497630800000000000000
+      internalID: 3925246052637753109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_23
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 534
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b572b141cbf932fd0800000000000000
+      internalID: -2367873348926757029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_24
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 532
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b7488f9a29edb200800000000000000
+      internalID: 197570327948576690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_25
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 533
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 043e8e7e8d944d210800000000000000
+      internalID: 1356790583697924928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_26
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 533
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3233b6da0bd302450800000000000000
+      internalID: 6061912927473709859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_27
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 532
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3a890d3c86cdcdf0800000000000000
+      internalID: -158252106266342854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_28
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 531
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d23fbebf1817ec230800000000000000
+      internalID: 3660988350190056237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_29
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 531
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd36e4b3ece188d80800000000000000
+      internalID: -8248308846421974049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_30
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 532
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92a37262441876360800000000000000
+      internalID: 7162835862053927465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_31
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 532
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46e2a278843b35d10800000000000000
+      internalID: 2113229774253600356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_32
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 495
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d4d8018e4a4d9fb0800000000000000
+      internalID: -4639470340088998704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_33
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 495
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0622e8a95cce11ce0800000000000000
+      internalID: -1436106472708758944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_34
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 494
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4752007e8c8e76150800000000000000
+      internalID: 5865912989240010100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_35
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 494
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e98496df281ed5720800000000000000
+      internalID: 2836671293026814110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_36
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 495
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d58ba0cb8ffa51220800000000000000
+      internalID: 2456062654642042973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_37
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 496
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a25e5dbb8200d480800000000000000
+      internalID: -8876592066346462553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_38
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 496
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b47277176263be0e0800000000000000
+      internalID: -2239636850946398389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_39
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 495
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0423918bc1307d4d0800000000000000
+      internalID: -3110013595793411520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_40
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 497
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cab66f6735e35e5f0800000000000000
+      internalID: -728107236551398484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_41
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 495
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f197185387536f70800000000000000
+      internalID: 9179276687141474804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_42
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 495
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56d36c14676a76f60800000000000000
+      internalID: 8027567887651061093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_43
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 459
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fa79c13e1a77d410800000000000000
+      internalID: 1501803270854245112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_44
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 459
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa22cc37cd3007220800000000000000
+      internalID: 2481487640051589807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_45
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 459
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14573899a0bdad750800000000000000
+      internalID: 6330613064794338625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_46
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 458
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcb6a9b5d2eac5ec0800000000000000
+      internalID: -3576792494205408307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_47
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 458
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cbaa1c6e0118c520800000000000000
+      internalID: 2722444728386366406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_48
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 458
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0370c8ce236186be0800000000000000
+      internalID: -1483911669245802704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_49
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 460
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce6b4342a3aab9800800000000000000
+      internalID: 620276540385834732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_50
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 458
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a9e0cab73bafd7f0800000000000000
+      internalID: -585561170690119262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_51
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 455
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95c26c645dcd76c00800000000000000
+      internalID: 893925859629870169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_52
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 455
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eb0fefd92292f6d0800000000000000
+      internalID: -2958141296680694813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_53
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 456
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84cd171e2c87c7870800000000000000
+      internalID: 8681946960064797768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_54
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 425
+        width: 67
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f99751a2c59a1a480800000000000000
+      internalID: -8889637976144512609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_55
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 404
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 162769093e894fef0800000000000000
+      internalID: -75267190607678879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_56
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 403
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f2a0cafcfaa158a0800000000000000
+      internalID: -6318080798708686095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_57
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 403
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb6c36b6d99001340800000000000000
+      internalID: 4832372971884758719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_58
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 404
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90d133b71c02c7300800000000000000
+      internalID: 251111694593629449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_59
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 403
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9010f2e224762b3c0800000000000000
+      internalID: -4345297156518772471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_60
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 403
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0cd6f88ba118baf0800000000000000
+      internalID: -380534740077847541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_61
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 403
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa75207dc16dc9910800000000000000
+      internalID: 1845585366669744042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_62
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 403
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cba4cf32c927541a0800000000000000
+      internalID: -6825923645265917252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_63
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 405
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f57eb63deb6006f0800000000000000
+      internalID: -720457273809406477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_64
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 405
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 967edf2f5776e4140800000000000000
+      internalID: 4705812416934307689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_65
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 380
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afe7b6f95fdd66f20800000000000000
+      internalID: 3415661414418448122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_66
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 380
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 138df33a8c89d63c0800000000000000
+      internalID: -4364664476352391119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_67
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 378
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11bf19d3fee6e0b00800000000000000
+      internalID: 796696157900372753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_68
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 378
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee5d1f1f08e22c780800000000000000
+      internalID: -8664311601757563410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_69
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 378
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a2b09862fe3ba240800000000000000
+      internalID: 4804002638378087081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_70
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 378
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3c305d32b72c0c30800000000000000
+      internalID: 4326876988482534458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_71
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 379
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5644b73f6f6f7b40800000000000000
+      internalID: 5440189398353462878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_72
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 378
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e151ff894a822c300800000000000000
+      internalID: 270823615002252574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_73
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 378
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c611bdb912f53a10800000000000000
+      internalID: 1888681811122394819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_74
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 379
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12c26533dc20b1ea0800000000000000
+      internalID: -5901119806386066399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_75
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 343
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33ef4c60dd62b2e30800000000000000
+      internalID: 4479716985093291571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_76
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 343
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f37e91d6899dfb90800000000000000
+      internalID: -7206435024401435662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_77
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 343
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d1339474bc030ef0800000000000000
+      internalID: -143256793956273708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_78
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 342
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b7c25afba4b3d1f0800000000000000
+      internalID: -1021274039750834256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_79
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 342
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ace383ecd58d52340800000000000000
+      internalID: 4838511272082816714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_80
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 342
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c7af96d87bb25e00800000000000000
+      internalID: 1032093392292521929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_81
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 344
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1802f78881398920800000000000000
+      internalID: 2992977889830504477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_82
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 342
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a0f2de77799fcbf0800000000000000
+      internalID: -301853911502622557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_83
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 346
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11b848702dc930bd0800000000000000
+      internalID: -2665114128590009583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_84
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 342
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3273396158ea93bf0800000000000000
+      internalID: -344052009884502237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_85
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 342
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9b2f33a8d7929050800000000000000
+      internalID: 5805869826341546907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_86
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 307
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0828fddfedbc1d190800000000000000
+      internalID: -7939340509475011968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_87
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 307
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c81cd0845954a5b0800000000000000
+      internalID: -5358059437190014784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_88
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 311
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52785e92f79cb9340800000000000000
+      internalID: 4871708969932261157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_89
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 307
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45a4bffb1b2e29c30800000000000000
+      internalID: 4364800241933437524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_90
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 309
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feaeef93d0e7d9240800000000000000
+      internalID: 4800131373119498991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_91
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 307
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5753b5b3567e84f10800000000000000
+      internalID: 2254306035472479605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_92
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 307
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3780d8feee234de80800000000000000
+      internalID: -8154837023458523021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_93
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 307
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 561a3c076bca67670800000000000000
+      internalID: 8536200043303248229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_94
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 308
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37548e32716fe1cb0800000000000000
+      internalID: -4891201566030674573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_95
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 308
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17cf7cdf723892860800000000000000
+      internalID: 7505674461774347377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_96
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 308
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b16b59f6917b6d70800000000000000
+      internalID: 9037441970491580852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_97
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 272
+        width: 101
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1141d0537c7024980800000000000000
+      internalID: -8556267789880585199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_98
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 273
+        width: 53
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30b04f57884cfeb80800000000000000
+      internalID: -8363249892630197501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_99
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 272
+        width: 93
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b79e8c2ff21806da0800000000000000
+      internalID: -5953616664447096453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_100
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 247
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfe7e62a408b434d0800000000000000
+      internalID: -3155695108835344645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_101
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 247
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2aca12ca50614c60800000000000000
+      internalID: 7800621972502268461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_102
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 247
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f40a95b82cbc34f40800000000000000
+      internalID: 5711632788857921615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_103
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 247
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 373d56ec58426b5b0800000000000000
+      internalID: -5353050949971225741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_104
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 247
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c91056f1827d026e0800000000000000
+      internalID: -1864253678406008420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_105
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 247
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d66ad968ac8c67d0800000000000000
+      internalID: -2923807403111979303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_106
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 250
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c31fa4286e675f8e0800000000000000
+      internalID: -1660290155215654596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_107
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 250
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf4b58bd9f1c83e60800000000000000
+      internalID: 7942311221741860092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_108
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 251
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d94197da322a954f0800000000000000
+      internalID: -839461581409938275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_109
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 211
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2bf5ae129128cae0800000000000000
+      internalID: -1528935162029147347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_110
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 211
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1c801b8e20c68830800000000000000
+      internalID: 4073154219137338398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_111
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 211
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71c6ac503aaf4e6b0800000000000000
+      internalID: -5267810086032872425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_112
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 212
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e5925aaff6bfe3d0800000000000000
+      internalID: -3175118003082455584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_113
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 212
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9fcd6eb4e7121090800000000000000
+      internalID: -8065357711452287074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_114
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 212
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5911d178495e6e860800000000000000
+      internalID: 7558981450672705941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_115
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 213
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25dabad1032746a10800000000000000
+      internalID: 1901770493638978898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_116
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 212
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db9321a3845d0f8f0800000000000000
+      internalID: -508672251704231491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_117
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 213
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5cb2e2de2b9e9800800000000000000
+      internalID: 621104424032582750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_118
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 178
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 449f779d4fe76da20800000000000000
+      internalID: 3086794184694692164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_119
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 178
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78c16e9232b3e46c0800000000000000
+      internalID: -4157320383803548537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_120
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 178
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cca0b8eef2d364870800000000000000
+      internalID: 8666681808995945164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_121
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 179
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16649d42d4f5085a0800000000000000
+      internalID: -6521107475497138591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_122
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 179
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8970c5ac0771cf6c0800000000000000
+      internalID: -4108382986869930088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_123
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 179
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7bb7f99fa04a1ce0800000000000000
+      internalID: -1433762408417477764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_124
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 182
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d26f9d562da6974c0800000000000000
+      internalID: -4289279718209227219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_125
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 181
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19d1d1086cf5581f0800000000000000
+      internalID: -1043322432508846703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_126
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 182
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9569c1a8832b1c8f0800000000000000
+      internalID: -521940125893224871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_127
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 157
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78c7280bb9b2b3c30800000000000000
+      internalID: 4340110613582871687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_128
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 156
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79d552cb372c8c740800000000000000
+      internalID: 5172597974368607639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_129
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 157
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be25415d0af8ecea0800000000000000
+      internalID: -5850580944975277333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_130
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 158
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dff7072cdf4ee8e0800000000000000
+      internalID: -1662303405486899246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_131
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 158
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d38207257b1a7260800000000000000
+      internalID: 7096014352855237589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_132
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 158
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 152c679c7ab8e4710800000000000000
+      internalID: 1679433263811576401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_133
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 158
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b205bfda80f226810800000000000000
+      internalID: 1757018518953087019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_134
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 158
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 309a9a5027d997810800000000000000
+      internalID: 1763613842139097347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_135
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 158
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71ef8da98cc2ad530800000000000000
+      internalID: 3880463269036097047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_136
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 133
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dc4a7371916d25a0800000000000000
+      internalID: -6544467406163915560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_137
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 133
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87679728da4cfff20800000000000000
+      internalID: 3458699288341214840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_138
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 133
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfcb9d605524a9130800000000000000
+      internalID: 3574242187226496252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_139
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 133
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 266f81966648c2760800000000000000
+      internalID: 7434462660266620514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_140
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 133
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c62f336275a9ebc80800000000000000
+      internalID: -8305030963730845076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_141
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 133
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7725ad976d9cbd000800000000000000
+      internalID: 61864942904169079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_142
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 133
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fec6ebdd8ffda0290800000000000000
+      internalID: -7923274334439838481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_143
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 133
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 475a893ad335aba00800000000000000
+      internalID: 773021810250261876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_144
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 133
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ddc70997d7d8a960800000000000000
+      internalID: 7613572491055189461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_145
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 90
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd2e8e9d8d9eeb8e0800000000000000
+      internalID: -1675644893757119780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_146
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 109
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c3030877d3950d10800000000000000
+      internalID: 2091240155624178630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_147
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 100
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 243be592c63cbb430800000000000000
+      internalID: 3799845579935101762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_148
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 109
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b3da8983328e85e0800000000000000
+      internalID: -1905442434468621392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_149
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 98
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 311ca31a6b4bd0ec0800000000000000
+      internalID: -3599021830717128429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_150
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 99
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75df8db597ef2cb40800000000000000
+      internalID: 5459205495511907671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_151
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 101
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a9d3c57c0a538270800000000000000
+      internalID: 8251537951834757537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_152
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 100
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76ca56f18f2873410800000000000000
+      internalID: 1456777006667902055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_153
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 101
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b7a9a130d88b17c0800000000000000
+      internalID: -4099532608022927434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_154
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 92
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6991f8ddbeb007330800000000000000
+      internalID: 3706475600988281238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_155
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 76
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e9b4b93886aca050800000000000000
+      internalID: 5813204323042376168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_156
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 76
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba3a594300916c5b0800000000000000
+      internalID: -5348560018782968917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_157
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 70
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d7e7805b5bcdd330800000000000000
+      internalID: 3737366858840926160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_158
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 70
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c91ca1fdf8b0fe3b0800000000000000
+      internalID: -5481149508935302756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_159
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 70
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92044cd5508c65380800000000000000
+      internalID: -8982772481370341335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_160
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 69
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fc2db16f9d6ad1a0800000000000000
+      internalID: -6783989357373215497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_161
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 70
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02e0aed6fb3cfb3e0800000000000000
+      internalID: -2035693279597949408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_162
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 78
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1249e6ea2d2a499a0800000000000000
+      internalID: -6227173358993239007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_163
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 78
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 338ae661e7ecd9730800000000000000
+      internalID: 4007586284367161395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_164
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 32
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a13da80132261570800000000000000
+      internalID: 8436968545919513001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_165
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 32
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c988fda206f744840800000000000000
+      internalID: 5207427120160016540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_166
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 32
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6da1c6e6a46311ac0800000000000000
+      internalID: -3886265310135969066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_167
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 30
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc4d80b045c780c30800000000000000
+      internalID: 4325844142493586636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_168
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 30
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea190a2be8c5d68b0800000000000000
+      internalID: -5157364230317370962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_169
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 30
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34acf2361af0e6720800000000000000
+      internalID: 2841225600745589315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_170
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 55
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e8b1dd9ce4324560800000000000000
+      internalID: 7296452537158318304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_171
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 41
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 289cb9721aa9b2050800000000000000
+      internalID: 5776880963977726338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldSheet_172
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 28
+        width: 33
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98808c2c081cb75a0800000000000000
+      internalID: -6522406876548167543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      marioWorldSheet_0: 4736102380689455565
+      marioWorldSheet_1: -6598437330299988929
+      marioWorldSheet_10: -2233784891873938897
+      marioWorldSheet_100: -3155695108835344645
+      marioWorldSheet_101: 7800621972502268461
+      marioWorldSheet_102: 5711632788857921615
+      marioWorldSheet_103: -5353050949971225741
+      marioWorldSheet_104: -1864253678406008420
+      marioWorldSheet_105: -2923807403111979303
+      marioWorldSheet_106: -1660290155215654596
+      marioWorldSheet_107: 7942311221741860092
+      marioWorldSheet_108: -839461581409938275
+      marioWorldSheet_109: -1528935162029147347
+      marioWorldSheet_11: -2752691086963350164
+      marioWorldSheet_110: 4073154219137338398
+      marioWorldSheet_111: -5267810086032872425
+      marioWorldSheet_112: -3175118003082455584
+      marioWorldSheet_113: -8065357711452287074
+      marioWorldSheet_114: 7558981450672705941
+      marioWorldSheet_115: 1901770493638978898
+      marioWorldSheet_116: -508672251704231491
+      marioWorldSheet_117: 621104424032582750
+      marioWorldSheet_118: 3086794184694692164
+      marioWorldSheet_119: -4157320383803548537
+      marioWorldSheet_12: -7608618694842110550
+      marioWorldSheet_120: 8666681808995945164
+      marioWorldSheet_121: -6521107475497138591
+      marioWorldSheet_122: -4108382986869930088
+      marioWorldSheet_123: -1433762408417477764
+      marioWorldSheet_124: -4289279718209227219
+      marioWorldSheet_125: -1043322432508846703
+      marioWorldSheet_126: -521940125893224871
+      marioWorldSheet_127: 4340110613582871687
+      marioWorldSheet_128: 5172597974368607639
+      marioWorldSheet_129: -5850580944975277333
+      marioWorldSheet_13: 6476631518180497563
+      marioWorldSheet_130: -1662303405486899246
+      marioWorldSheet_131: 7096014352855237589
+      marioWorldSheet_132: 1679433263811576401
+      marioWorldSheet_133: 1757018518953087019
+      marioWorldSheet_134: 1763613842139097347
+      marioWorldSheet_135: 3880463269036097047
+      marioWorldSheet_136: -6544467406163915560
+      marioWorldSheet_137: 3458699288341214840
+      marioWorldSheet_138: 3574242187226496252
+      marioWorldSheet_139: 7434462660266620514
+      marioWorldSheet_14: -8516573679333348686
+      marioWorldSheet_140: -8305030963730845076
+      marioWorldSheet_141: 61864942904169079
+      marioWorldSheet_142: -7923274334439838481
+      marioWorldSheet_143: 773021810250261876
+      marioWorldSheet_144: 7613572491055189461
+      marioWorldSheet_145: -1675644893757119780
+      marioWorldSheet_146: 2091240155624178630
+      marioWorldSheet_147: 3799845579935101762
+      marioWorldSheet_148: -1905442434468621392
+      marioWorldSheet_149: -3599021830717128429
+      marioWorldSheet_15: -921294865299584409
+      marioWorldSheet_150: 5459205495511907671
+      marioWorldSheet_151: 8251537951834757537
+      marioWorldSheet_152: 1456777006667902055
+      marioWorldSheet_153: -4099532608022927434
+      marioWorldSheet_154: 3706475600988281238
+      marioWorldSheet_155: 5813204323042376168
+      marioWorldSheet_156: -5348560018782968917
+      marioWorldSheet_157: 3737366858840926160
+      marioWorldSheet_158: -5481149508935302756
+      marioWorldSheet_159: -8982772481370341335
+      marioWorldSheet_16: -3943863246238207295
+      marioWorldSheet_160: -6783989357373215497
+      marioWorldSheet_161: -2035693279597949408
+      marioWorldSheet_162: -6227173358993239007
+      marioWorldSheet_163: 4007586284367161395
+      marioWorldSheet_164: 8436968545919513001
+      marioWorldSheet_165: 5207427120160016540
+      marioWorldSheet_166: -3886265310135969066
+      marioWorldSheet_167: 4325844142493586636
+      marioWorldSheet_168: -5157364230317370962
+      marioWorldSheet_169: 2841225600745589315
+      marioWorldSheet_17: 2405678789805211527
+      marioWorldSheet_170: 7296452537158318304
+      marioWorldSheet_171: 5776880963977726338
+      marioWorldSheet_172: -6522406876548167543
+      marioWorldSheet_18: 7213068515547142992
+      marioWorldSheet_19: -4366925596643130811
+      marioWorldSheet_2: 5978316442183319925
+      marioWorldSheet_20: -1128771648276558213
+      marioWorldSheet_21: 8420907882749016570
+      marioWorldSheet_22: 3925246052637753109
+      marioWorldSheet_23: -2367873348926757029
+      marioWorldSheet_24: 197570327948576690
+      marioWorldSheet_25: 1356790583697924928
+      marioWorldSheet_26: 6061912927473709859
+      marioWorldSheet_27: -158252106266342854
+      marioWorldSheet_28: 3660988350190056237
+      marioWorldSheet_29: -8248308846421974049
+      marioWorldSheet_3: -7249445267916601622
+      marioWorldSheet_30: 7162835862053927465
+      marioWorldSheet_31: 2113229774253600356
+      marioWorldSheet_32: -4639470340088998704
+      marioWorldSheet_33: -1436106472708758944
+      marioWorldSheet_34: 5865912989240010100
+      marioWorldSheet_35: 2836671293026814110
+      marioWorldSheet_36: 2456062654642042973
+      marioWorldSheet_37: -8876592066346462553
+      marioWorldSheet_38: -2239636850946398389
+      marioWorldSheet_39: -3110013595793411520
+      marioWorldSheet_4: 2236573339340578797
+      marioWorldSheet_40: -728107236551398484
+      marioWorldSheet_41: 9179276687141474804
+      marioWorldSheet_42: 8027567887651061093
+      marioWorldSheet_43: 1501803270854245112
+      marioWorldSheet_44: 2481487640051589807
+      marioWorldSheet_45: 6330613064794338625
+      marioWorldSheet_46: -3576792494205408307
+      marioWorldSheet_47: 2722444728386366406
+      marioWorldSheet_48: -1483911669245802704
+      marioWorldSheet_49: 620276540385834732
+      marioWorldSheet_5: -2062090418738265664
+      marioWorldSheet_50: -585561170690119262
+      marioWorldSheet_51: 893925859629870169
+      marioWorldSheet_52: -2958141296680694813
+      marioWorldSheet_53: 8681946960064797768
+      marioWorldSheet_54: -8889637976144512609
+      marioWorldSheet_55: -75267190607678879
+      marioWorldSheet_56: -6318080798708686095
+      marioWorldSheet_57: 4832372971884758719
+      marioWorldSheet_58: 251111694593629449
+      marioWorldSheet_59: -4345297156518772471
+      marioWorldSheet_6: -1952120661884304070
+      marioWorldSheet_60: -380534740077847541
+      marioWorldSheet_61: 1845585366669744042
+      marioWorldSheet_62: -6825923645265917252
+      marioWorldSheet_63: -720457273809406477
+      marioWorldSheet_64: 4705812416934307689
+      marioWorldSheet_65: 3415661414418448122
+      marioWorldSheet_66: -4364664476352391119
+      marioWorldSheet_67: 796696157900372753
+      marioWorldSheet_68: -8664311601757563410
+      marioWorldSheet_69: 4804002638378087081
+      marioWorldSheet_7: -4508882108526202516
+      marioWorldSheet_70: 4326876988482534458
+      marioWorldSheet_71: 5440189398353462878
+      marioWorldSheet_72: 270823615002252574
+      marioWorldSheet_73: 1888681811122394819
+      marioWorldSheet_74: -5901119806386066399
+      marioWorldSheet_75: 4479716985093291571
+      marioWorldSheet_76: -7206435024401435662
+      marioWorldSheet_77: -143256793956273708
+      marioWorldSheet_78: -1021274039750834256
+      marioWorldSheet_79: 4838511272082816714
+      marioWorldSheet_8: -3890897374961572297
+      marioWorldSheet_80: 1032093392292521929
+      marioWorldSheet_81: 2992977889830504477
+      marioWorldSheet_82: -301853911502622557
+      marioWorldSheet_83: -2665114128590009583
+      marioWorldSheet_84: -344052009884502237
+      marioWorldSheet_85: 5805869826341546907
+      marioWorldSheet_86: -7939340509475011968
+      marioWorldSheet_87: -5358059437190014784
+      marioWorldSheet_88: 4871708969932261157
+      marioWorldSheet_89: 4364800241933437524
+      marioWorldSheet_9: -6425395044210708546
+      marioWorldSheet_90: 4800131373119498991
+      marioWorldSheet_91: 2254306035472479605
+      marioWorldSheet_92: -8154837023458523021
+      marioWorldSheet_93: 8536200043303248229
+      marioWorldSheet_94: -4891201566030674573
+      marioWorldSheet_95: 7505674461774347377
+      marioWorldSheet_96: 9037441970491580852
+      marioWorldSheet_97: -8556267789880585199
+      marioWorldSheet_98: -8363249892630197501
+      marioWorldSheet_99: -5953616664447096453
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
