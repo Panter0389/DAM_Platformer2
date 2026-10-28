@@ -7,6 +7,8 @@ public class Player : MonoBehaviour
     public Vector2 speed;
     public float jumpForce = 400;
     public Rigidbody2D body2d;
+    public Animator animator2d;
+    public SpriteRenderer spriteRenderer;
 
     Vector2 currentSpeed;
     bool isGrounded = false;
@@ -34,6 +36,14 @@ public class Player : MonoBehaviour
     private void FixedUpdate()
     {
         body2d.linearVelocityX = currentSpeed.x;
+        animator2d.SetFloat("SpeedX", currentSpeed.x);
+        animator2d.SetBool("IsGrounded", isGrounded);
+
+        if (Mathf.Abs(currentSpeed.x) > 0.1)
+        {
+            bool facingLeft = currentSpeed.x < 0;
+            spriteRenderer.flipX = facingLeft;
+        }
     }
 
     private void OnCollisionEnter2D(Collision2D collision)
